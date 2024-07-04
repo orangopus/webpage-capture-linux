@@ -1,0 +1,1 @@
+./start_tpstreamchat.sh: line 16: ./touchportal_streamchat: No such file or directory
